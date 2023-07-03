@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a junior front-end developer.
+I am a junior front-end developer. I'm French and live in Paris.
 
 - 🔭 I'm currently working on reinforcing my React skills with different projects following a Udemy course
 - 🌱 I'm currently learning TypeScript. I'm also interested in web accessibility and will learn more about it.
